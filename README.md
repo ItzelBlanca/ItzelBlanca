@@ -4,15 +4,18 @@
 <br>
 
 <p align="center">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML" width="40" height="40"/>
   </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>   
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="java" width="40" height="40"/>
   </a>
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="python" width="40" height="40"/> 
+  </a>   
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" alt="python" width="40" height="40"/> 
+  </a>   
 </p>
 
 <div align="center">
