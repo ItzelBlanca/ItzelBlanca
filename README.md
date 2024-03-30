@@ -33,6 +33,7 @@
 
 <div align="center">
   <a href="https://github.com/ItzelBlanca">  
-    <img src="https://github-readme-stats.vercel.app/api?username=ItzelBlanca" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ItzelBlanca&rank_icon=github&show_icons=true&text_color=d8007e&title_color=2f3237&icon_color=111213&border_radius=11" width="450"/>
+      
   </a>
 </div>
